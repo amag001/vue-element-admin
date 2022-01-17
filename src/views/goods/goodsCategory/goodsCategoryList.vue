@@ -1,5 +1,9 @@
 <template>
-  <div @click="change()">{{message}}</div>
+  <div>
+     <div @click="change()">{{message}}</div>
+     <div>把值变为响应式的</div>
+  </div>
+ 
 </template>
 
 <script>
