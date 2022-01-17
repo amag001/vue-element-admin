@@ -1,7 +1,7 @@
 <template>
   <div>
      <div @click="change()">{{message}}</div>
-     <div>把值变为响应式的</div>
+     <div>把值变为响应式的,不行啊</div>
   </div>
  
 </template>
